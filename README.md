@@ -2,7 +2,7 @@ To reproduce
 
 ```
 bundle install
-rake db:create db:migrate # (set .env for env vars)
+rake db:create db:migrate # (see .env for env vars)
 bin/server
 ```
 
